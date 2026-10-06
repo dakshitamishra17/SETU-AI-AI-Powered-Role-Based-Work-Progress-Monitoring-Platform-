@@ -1,0 +1,8 @@
+﻿streamlit
+rapidfuzz
+sentence-transformers
+openai
+pandas
+plotly
+numpy
+weasyprint

@@ -1,0 +1,19 @@
+activity_id,level,discipline,wbs_package,activity_description,planned_start,planned_finish,baseline_status
+CIV-FND-001,L5,Civil,Foundation Works,Excavation for Compressor Foundation,2026-09-01,2026-09-03,PLANNED
+CIV-FND-002,L5,Civil,Foundation Works,Plain Cement Concrete (PCC) for Compressor Foundation,2026-09-04,2026-09-05,PLANNED
+CIV-FND-003,L5,Civil,Foundation Works,Reinforcement Work for Compressor Foundation,2026-09-06,2026-09-09,CRITICAL
+CIV-FND-004,L6,Civil,Foundation Works,Foundation Concreting for Compressor Unit,2026-09-10,2026-09-11,CRITICAL
+CIV-FND-005,L6,Civil,Foundation Works,Curing and Deshuttering of Compressor Foundation,2026-09-12,2026-09-16,PLANNED
+ROT-EQP-001,L5,Mechanical,Rotating Equipment,Compressor Equipment Placement on Foundation,2026-09-18,2026-09-20,CRITICAL
+ROT-EQP-002,L6,Mechanical,Rotating Equipment,Compressor Shaft Alignment and Grouting,2026-09-21,2026-09-24,PLANNED
+PIP-ERE-001,L5,Piping,Pipe Rack,Pipe Rack Structural Steel Erection,2026-09-12,2026-09-16,PLANNED
+PIP-ERE-002,L6,Piping,Pipe Rack,Piping Alignment and Joint Fit-Up,2026-09-16,2026-09-19,PLANNED
+PIP-LIN-001,L6,Piping,Process Piping,Suction and Discharge Process Line Installation,2026-09-20,2026-09-25,CRITICAL
+PIP-HYD-001,L6,Piping,Process Piping,Hydrotesting of Compressor Header Line,2026-09-26,2026-09-28,MILESTONE
+ELE-CAB-001,L5,Electrical,Cabling and Trays,Main Overhead Cable Tray Installation,2026-09-17,2026-09-20,PLANNED
+ELE-CAB-002,L6,Electrical,Cabling and Trays,HT Power Cable Pulling and Termination,2026-09-21,2026-09-24,PLANNED
+ELE-MOT-001,L6,Electrical,Substation Works,Electric Motor Hookup and Insulation Resistance Test,2026-09-25,2026-09-27,PLANNED
+INS-INS-001,L5,Instrumentation,Field Instruments,Pressure and Temperature Transmitter Installation,2026-09-22,2026-09-25,PLANNED
+INS-TST-001,L6,Instrumentation,Loop Testing,Transmitter to PLC Instrument Loop Checking,2026-09-26,2026-09-29,CRITICAL
+HSE-SAF-001,L5,HSE,Safety Systems,Fire Hydrant and Flame Detector Placement,2026-09-18,2026-09-22,PLANNED
+HSE-INS-001,L6,HSE,Safety Systems,Emergency Safety Shower and Eyewash Inspection,2026-09-24,2026-09-25,PLANNED
